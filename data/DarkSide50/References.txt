@@ -1,0 +1,13 @@
+References:
+
+P.~Agnes \textit{et al.} [DarkSide],
+``Low-Mass Dark Matter Search with the DarkSide-50 Experiment,''
+Phys. Rev. Lett. \textbf{121} (2018) no.8, 081307
+doi:10.1103/PhysRevLett.121.081307
+[arXiv:1802.06994 [astro-ph.HE]]
+
+P.~Agnes \textit{et al.} [DarkSide],
+``Constraints on Sub-GeV Dark-Matter–Electron Scattering from the DarkSide-50 Experiment,''
+Phys. Rev. Lett. \textbf{121} (2018) no.11, 111303
+doi:10.1103/PhysRevLett.121.111303
+[arXiv:1802.06998 [astro-ph.CO]]

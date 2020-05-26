@@ -1,0 +1,7 @@
+References:
+
+M.~Ibe, W.~Nakano, Y.~Shoji and K.~Suzuki,
+``Migdal Effect in Dark Matter Direct Detection Experiments,''
+JHEP \textbf{03} (2018), 194
+doi:10.1007/JHEP03(2018)194
+[arXiv:1707.07258 [hep-ph]].
