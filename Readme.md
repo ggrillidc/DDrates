@@ -27,7 +27,7 @@ If you use the code, please cite:
 
 Grilli di Cortona G.,  Messina A., and Piacentini S. "Migdal effect and photon Bremsstrahlung: improving the sensitivity to light dark matter with LAr", arXiv:20xx.xxxxx
 
-as well as all the relevant articles for each module, listed in the files References.txt in the data/$<$name$>$ folder.
+as well as all the relevant articles for each module, listed in the files References.txt in the data/<name> folder.
 
 ### Authors
 
