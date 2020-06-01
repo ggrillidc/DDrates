@@ -1,6 +1,12 @@
 # DMrates
 
-This is a python code for calculating the rates for nuclear recoil, Migdal effect and photon Bremsstrahlung for argon detectors using the Standard Halo Model.
+[![arXiv](https://img.shields.io/badge/.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+
+
+This is a python code for calculating the rates for nuclear recoil, Migdal effect and photon Bremsstrahlung for argon detectors using the Standard Halo Model. This code was used to compute the DM rates in [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX). The statistical analysis was performed with the code in github.com/piacent/LAr-MigdalLimits.
+
+
 
 ### Features
 
@@ -9,10 +15,10 @@ This is a python code for calculating the rates for nuclear recoil, Migdal effec
 
 ### Contents
 
-- 'data/bremsstrahlung' - Contains the data for the X-ray form factors, from https://physics.nist.gov/PhysRefData/FFast/html/form.html;
-- 'data/DarkSide50' - Contains the data for the calibration curve to convert electron or nuclear recoil spectra to ionization spectra in LAr underground detectors, from 1802.06994 and 1802.06998;
-- 'data/Migdal' - Contains the differential transition probabilities for argon, from 1707.07258;
-- 'src' - Python files to compute the nuclear recoil, Migdal and Bremsstrahlung rates, plus an example jupyter notebook.
+- `data/bremsstrahlung` - Contains the data for the X-ray form factors, from https://physics.nist.gov/PhysRefData/FFast/html/form.html;
+- `data/DarkSide50` - Contains the data for the calibration curve to convert electron or nuclear recoil spectra to ionization spectra in LAr underground detectors, from 1802.06994 and 1802.06998;
+- `data/Migdal` - Contains the differential transition probabilities for argon, from 1707.07258;
+- `src` - Python files to compute the nuclear recoil, Migdal and Bremsstrahlung rates, plus an example jupyter notebook.
 
 ### Requirements
 
@@ -23,9 +29,9 @@ This is a python code for calculating the rates for nuclear recoil, Migdal effec
 
 ### Citing DMrates
 
-If you use the code, please cite:
+If you use the code, please cite [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX):
 
-Grilli di Cortona G.,  Messina A., and Piacentini S. "Migdal effect and photon Bremsstrahlung: improving the sensitivity to light dark matter with LAr", arXiv:20xx.xxxxx
+>Grilli di Cortona G.,  Messina A., and Piacentini S. "Migdal effect and photon Bremsstrahlung: improving the sensitivity to light dark matter of liquid argon experiments", arXiv:20xx.xxxxx
 
 as well as all the relevant articles for each module, listed in the files References.txt in the data/<name> folder.
 
