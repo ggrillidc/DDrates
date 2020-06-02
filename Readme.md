@@ -4,7 +4,7 @@
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 
-This is a python code for calculating the rates for nuclear recoil, Migdal effect and photon Bremsstrahlung for argon detectors using the Standard Halo Model. This code was used to compute the DM rates in [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX). The statistical analysis was performed with the code in github.com/piacent/LAr-MigdalLimits.
+This is a python code for calculating the rates for nuclear recoil, Migdal effect and photon Bremsstrahlung for argon detectors using the Standard Halo Model. This code was used to compute the DM rates in [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX). The statistical analysis was performed with the code in https://github.com/piacent/LAr-MigdalLimits/blob/master/LArAnalysis.R.ipynb.
 
 
 
