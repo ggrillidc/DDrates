@@ -1,10 +1,10 @@
 # DDrates
 
-[![arXiv](https://img.shields.io/badge/.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/.svg)](https://arxiv.org/abs/2006.02453)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 
-This is a python code for calculating the rates for nuclear recoil, Migdal effect and photon Bremsstrahlung for argon detectors using the Standard Halo Model. This code was used to compute the DM rates in [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX). The statistical analysis was performed with the code in https://github.com/piacent/LAr-MigdalLimits/blob/master/LArAnalysis.R.ipynb.
+This is a python code for calculating the rates for nuclear recoil, Migdal effect and photon Bremsstrahlung for argon detectors using the Standard Halo Model. This code was used to compute the DM rates in [arXiv:2006.02453](https://arxiv.org/abs/2006.02453). The statistical analysis was performed with the code in https://github.com/piacent/LAr-MigdalLimits/blob/master/LArAnalysis.R.ipynb.
 
 
 
@@ -29,9 +29,9 @@ This is a python code for calculating the rates for nuclear recoil, Migdal effec
 
 ### Citing DMrates
 
-If you use the code, please cite [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX):
+If you use the code, please cite [arXiv:2006.02453](https://arxiv.org/abs/2006.02453):
 
->Grilli di Cortona G.,  Messina A., and Piacentini S. "Migdal effect and photon Bremsstrahlung: improving the sensitivity to light dark matter of liquid argon experiments", arXiv:20xx.xxxxx
+>Grilli di Cortona G.,  Messina A., and Piacentini S. "Migdal effect and photon Bremsstrahlung: improving the sensitivity to light dark matter of liquid argon experiments", arXiv:2006.02453
 
 as well as all the relevant articles for each module, listed in the files References.txt in the data/<name> folder.
 
